@@ -71,7 +71,7 @@ Tutoriales mediocres, traducciones automáticas, documentación desactualizada �
 # No hay nada que instalar.
 # Solo entra, regístrate y resuelve el primer reto.
 
-$ open https://codeintruder.com
+$ open https://app.codeintruder.com
 ```
 
 ---
