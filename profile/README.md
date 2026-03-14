@@ -1,6 +1,6 @@
 <div align="center">
   <br/>
-  <img src="https://www.codeintruder.com/_next/image?url=%2Fassets%2FLogo%2FCode-Intruder-Logotipo.png&w=640&q=75" alt="Code Intruder" width="340" />
+  <img src="https://codeintruder.com/_next/image?url=%2Fassets%2FLogo%2FCode-Intruder-Logotipo.png&w=640&q=75" alt="Code Intruder" width="340" />
   <br/><br/>
 
 ### _Aprende rompiendo cosas. En español._
@@ -78,7 +78,7 @@ $ open https://codeintruder.com
 
 <div align="center">
   <br/>
-  <img src="https://www.codeintruder.com/_next/image?url=%2Fassets%2FLogo%2FCode-Intruder-Logo.png&w=640&q=75" alt="Code Intruder Icon" width="48" />
+  <img src="https://codeintruder.com/_next/image?url=%2Fassets%2FLogo%2FCode-Intruder-Logo.png&w=640&q=75" alt="Code Intruder Icon" width="48" />
   <br/><br/>
 
 _Hecho con obsesión_
